@@ -1,4 +1,4 @@
-# HR-Performance-Salary-Analysis
+# 📊HR Performance Salary Analysis
 ## 📌 Project Description
 This project involves a comprehensive analysis of employee data across multiple departments within an organization for the years 2019 and 2020. The primary objective is to consolidate dispersed departmental data into a unified report, create a dynamic pivot table report for multi-dimensional analysis, and design a high-level dashboard to visualize key performance indicators (KPIs). The analysis covers salary distributions, employee performance scores, demographic details like age and experience, and academic backgrounds to provide actionable insights for management.
 
